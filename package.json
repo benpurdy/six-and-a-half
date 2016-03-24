@@ -1,0 +1,19 @@
+{
+  "name": "six-and-a-half",
+  "version": "1.0.0",
+  "description": "A nice wrapper to save all the effort of having to type the number six and a half.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpurdy/six-and-a-half.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benpurdy/six-and-a-half/issues"
+  },
+  "homepage": "https://github.com/benpurdy/six-and-a-half#readme"
+}
